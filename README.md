@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crisramalho
 - 👀 I’m interested in ...          Aprender e conbtribuir com desenvolvimento de  software
-- 🌱 I’m currently learning ... HtMl
+- 🌱 I’m currently learning ... html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
